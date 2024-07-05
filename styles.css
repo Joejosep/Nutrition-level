@@ -47,3 +47,11 @@ p {
     background-color: black;
     border: 0;
 }
+
+.small-text {
+    font-size: 0.85rem; 
+}
+
+.calories-info h2 {
+    margin: 0;
+}
